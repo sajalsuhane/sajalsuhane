@@ -39,19 +39,19 @@ I am a Data Science enthusiast , Open Source Contributor and a Speaker!
 
 
 | Python | Sklearn | C++ | Tkinter |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | 
 
 | Selenium | C | SQL | Pytorch | Numpy |
 | :---: | :---: | :---: | :---: | :---: |
 
 | Pandas | Tensorflow | OpenCV | Matplotlib |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | 
 
 | Pycharm | Jupyter Notebook | Github | Tableau |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | 
 
 | Flask | NLTK | IBM Machine Learning | Data Analysis |
-| :---: | :---: | :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: | 
 
 
 ![Sajal's github stats](https://github-readme-stats.vercel.app/api?username=sajalsuhane&show_icons=true&theme=dark)
