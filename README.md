@@ -25,7 +25,7 @@ I am a Data Science enthusiast , Open Source Contributor and a Speaker!
 
 🌱 I’m currently exploring: Deep Learning
 
-🔭 I’m currently working on : Stock Price Prediction
+🔭 I’m currently working on : Stock Price Prediction and Decision Making
 
 💬 Ask me about: Python , Machine Learning , jokes and a good playlist🎧
 
