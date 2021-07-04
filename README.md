@@ -1,15 +1,11 @@
-<img align="right" alt="GIF" src="https://github.com/bhav09/bhav09/blob/master/gif.gif" width="360"/>
 
-<!--https://i.imgur.com/9GNZGLH.gif
 
--->
+### Hey there 👋 My name is Sajal Suhane! 
 
-### Hey there 👋 My name is Bhavishya Pandit! 
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/bhavishya-pandit-68a4a018a/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/BhavishyaP9) ![](https://Visitor-badge.glitch.me/badge?page_id=bhav09.profileviews-badge)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sajalsuhane/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/SajalSuhane1998) ![](https://Visitor-badge.glitch.me/badge?page_id=bhav09.profileviews-badge)
 
 <!--
-**bhav09/bhav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sajalsuhane/sajalsuhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -24,41 +20,40 @@ Here are some ideas to get you started:
 
 -->
 
-I am a Linkedin Content Creater , Machine Learning enthusiast , Pythonista , Open Source Contributor and a Speaker!
+I am a Data Science enthusiast , Open Source Contributor and a Speaker! 
  
 
 🌱 I’m currently exploring: Deep Learning
 
-🔭 I’m currently working on : Deep Learning with Pytorch.
+🔭 I’m currently working on : Stock Price Prediction
 
-💬 Ask me about: Python , Machine Learning , Cosmos , jokes and a good playlist🎧
+💬 Ask me about: Python , Machine Learning , jokes and a good playlist🎧
 
-⚡ Fun fact: 7% of American adults believe that chocolate milk comes from brown cows.
+⚡ Fun fact: Cotton candy was invented by a dentist!
 
-💻 Code carousel: "saippuakivikauppias".That's world's longest palindrome word which is used by finnish people daily. And here you're not even able to pronounce it😂
+💬 Ask me about: Probably anything you are stuck with, I'll try to help you 😉
 
-📄 Resume : [Click to view](https://drive.google.com/file/d/1bZzynfRevVh1Md2D4ajD2bv2fnTMWuGk/view?usp=sharing)
+📄 Resume : [Click to view](https://sajalsuhane.github.io/cv.html)
 
 ### Languages and Tools-
 
 
-| Python | Sklearn | C++ | Tkinter | Tableau |
+| Python | Sklearn | C++ | Tkinter |
 | :---: | :---: | :---: | :---: | :---: |
-
 
 | Selenium | C | SQL | Pytorch | Numpy |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Pandas | SMTP lib | Tensorflow | OpenCV | Matplotlib |
+| Pandas | Tensorflow | OpenCV | Matplotlib |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Pycharm | SpyderIDE | GoogleColab | Jupyter Notebook | Github |
+| Pycharm | Jupyter Notebook | Github | Tableau |
 | :---: | :---: | :---: | :---: | :---: |
 
-| Flask | NLTK | Spacy | AWS Machine Learning | Data Analysis |
+| Flask | NLTK | IBM Machine Learning | Data Analysis |
 | :---: | :---: | :---: | :---: | :---: |
 
 
-![Bhavishya's github stats](https://github-readme-stats.vercel.app/api?username=bhav09&show_icons=true&theme=dark)
+![Sajal's github stats](https://github-readme-stats.vercel.app/api?username=sajalsuhane&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhav09&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajalsuhane&layout=compact&show_icons=true&theme=dark)](https://github.com/sajalsuhane/github-readme-stats)
