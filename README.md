@@ -2,7 +2,9 @@
 
 ### Hey there 👋 My name is Sajal Suhane! 
 
-I have some exciting projects to share, but they are here just to give you a glimpse. I have downgraded the original project to simple one, which would help you learn and grow from there in your own direction! So, enjoy the projects and connect with me if needed :)
+I have some exciting projects to share, but they are here just to give you a glimpse. I have downgraded the original project to simple one, which would help you learn and grow from there in your own direction! 
+
+So, enjoy the projects and connect with me if needed :)
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sajalsuhane/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/SajalSuhane1998) ![](https://Visitor-badge.glitch.me/badge?page_id=sajalsuahne.profileviews-badge)
 
