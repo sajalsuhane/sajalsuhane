@@ -35,6 +35,8 @@ I am a Data Science enthusiast , Open Source Contributor and a Speaker!
 
 📄 Resume : [Click to view](https://sajalsuhane.github.io/cv.html)
 
+🤵 Portfolio : [Click to view](https://sajalsuhane.github.io/)
+
 ### Languages and Tools-
 
 
