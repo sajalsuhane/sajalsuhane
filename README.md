@@ -2,7 +2,9 @@
 
 ### Hey there 👋 My name is Sajal Suhane! 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sajalsuhane/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/SajalSuhane1998) ![](https://Visitor-badge.glitch.me/badge?page_id=bhav09.profileviews-badge)
+I have some exciting projects to share, but they are here just to give you a glimpse. I have downgraded the original project to simple one, which would help you learn and grow from there in your own direction! So, enjoy the projects and connect with me if needed :)
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sajalsuhane/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/SajalSuhane1998) ![](https://Visitor-badge.glitch.me/badge?page_id=sajalsuahne.profileviews-badge)
 
 <!--
 **sajalsuhane/sajalsuhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,7 +33,7 @@ I am a Data Science enthusiast , Open Source Contributor and a Speaker!
 
 ⚡ Fun fact: Cotton candy was invented by a dentist!
 
-💬 Ask me about: Probably anything you are stuck with, I'll try to help you 😉
+💬 Ask me about: Probably anything you are stuck with, and I'll try to help you 😉
 
 📄 Resume : [Click to view](https://sajalsuhane.github.io/cv.html)
 
