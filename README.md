@@ -2,7 +2,7 @@
 
 ### Hey there 👋 My name is Sajal Suhane! 
 
-I have some exciting projects to share, but they are here just to give you a glimpse. I have downgraded the original project to simple one, which would help you learn and grow from there in your own direction! 
+I have some exciting projects to share. I have downgraded the original projects to simpler one, which would help you learn and grow from there in your own direction! 
 
 So, enjoy the projects and connect with me if needed :)
 
@@ -47,16 +47,16 @@ I am a Data Science enthusiast , Open Source Contributor and a Speaker!
 | Python | Sklearn | C++ | Tkinter |
 | :---: | :---: | :---: | :---: | 
 
-| Selenium | C | SQL | Pytorch | Numpy |
+| Selenium | C++ | SQL | Pytorch | Numpy |
 | :---: | :---: | :---: | :---: | :---: |
 
 | Pandas | Tensorflow | OpenCV | Matplotlib |
 | :---: | :---: | :---: | :---: | 
 
-| Pycharm | Jupyter Notebook | Github | Tableau |
+| Java | Google Colab | Github | Tableau |
 | :---: | :---: | :---: | :---: | 
 
-| Flask | NLTK | IBM Machine Learning | Data Analysis |
+| Flask | Kibana | IBM Machine Learning | Data Analysis |
 | :---: | :---: | :---: | :---: | 
 
 
