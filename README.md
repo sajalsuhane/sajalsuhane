@@ -1,10 +1,10 @@
 
 
-# 🚀 Sajal Suhane - Distributed Systems & Data Engineering Expert
+# 🚀 Sajal Suhane - Distributed Systems & Data Engineering Enthusiast
 
 ### 👋 Welcome to My GitHub Profile!
 
-I'm a passionate technologist specializing in **Distributed Systems, DAGs, Apache Spark, Data Availability, Lineage, Operational Stores, and SpringBoot APIs**. With a strong foundation in data engineering and distributed computing, I build scalable, efficient, and robust systems that handle massive datasets and complex workflows.
+I'm a passionate technologist with strong experience in **Distributed Systems, DAGs, Apache Spark, Data Availability, Lineage, Operational Stores, and SpringBoot APIs**. I enjoy building scalable, efficient systems and working with complex data workflows.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sajalsuhane/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/SajalSuhane1998) ![](https://Visitor-badge.glitch.me/badge?page_id=sajalsuahne.profileviews-badge)
 
@@ -86,7 +86,7 @@ I'm a passionate technologist specializing in **Distributed Systems, DAGs, Apach
 
 ## 🎯 Let's Connect!
 
-💬 **Ask me about**: Distributed systems, Spark optimization, data engineering, or anything tech-related!
+💬 **Ask me about**: Distributed systems, Spark, data engineering, machine learning, or anything tech-related!
 
 📄 **Resume**: [View My CV](https://sajalsuhane.github.io/cv.html)
 
@@ -98,10 +98,10 @@ I'm a passionate technologist specializing in **Distributed Systems, DAGs, Apach
 
 ## 🚀 Open to Collaboration
 
-I'm always excited to collaborate on innovative projects involving:
-- Distributed systems optimization
-- Large-scale data processing
-- Real-time analytics solutions
-- Scalable backend architectures
+I'm always excited to collaborate on interesting projects involving:
+- Distributed systems and data processing
+- Spark optimization and big data solutions
+- Machine learning and predictive analytics
+- Backend development and APIs
 
-Let's build something amazing together! 💻✨
+Let's build something cool together! 💻✨
