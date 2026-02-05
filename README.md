@@ -1,65 +1,107 @@
 
 
-### Hey there 👋 My name is Sajal Suhane! 
+# 🚀 Sajal Suhane - Distributed Systems & Data Engineering Expert
 
-I have some exciting projects to share. I have downgraded the original projects to simpler one, which would help you learn and grow from there in your own direction! 
+### 👋 Welcome to My GitHub Profile!
 
-So, enjoy the projects and connect with me if needed :)
+I'm a passionate technologist specializing in **Distributed Systems, DAGs, Apache Spark, Data Availability, Lineage, Operational Stores, and SpringBoot APIs**. With a strong foundation in data engineering and distributed computing, I build scalable, efficient, and robust systems that handle massive datasets and complex workflows.
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sajalsuhane/)&nbsp; [![Twitter](https://img.shields.io/twitter/url/https/twitter.com)](https://twitter.com/SajalSuhane1998) ![](https://Visitor-badge.glitch.me/badge?page_id=sajalsuahne.profileviews-badge)
 
-<!--
-**sajalsuhane/sajalsuhane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Core Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Distributed Systems & Data Engineering
+- **Apache Spark**: Optimizing large-scale data processing pipelines
+- **DAGs (Directed Acyclic Graphs)**: Designing and implementing efficient workflows
+- **Data Lineage**: Tracking data origins and transformations
+- **Operational Stores**: Building systems for real-time data access
+- **Data Availability**: Ensuring data consistency and accessibility
 
--->
+### Backend Development
+- **SpringBoot APIs**: RESTful services and microservices architecture
+- **Scalable Systems**: Designing for high availability and fault tolerance
 
-I am a Data Science enthusiast , Open Source Contributor and a Speaker! 
- 
+### Data Science & Machine Learning
+- **Deep Learning**: Exploring neural networks and advanced ML models
+- **Predictive Analytics**: Stock price prediction and decision-making systems
 
-🌱 I’m currently exploring: Deep Learning
+---
 
-🔭 I’m currently working on : Stock Price Prediction and Decision Making
+## 💡 Current Focus
 
-💬 Ask me about: Python , Machine Learning , jokes and a good playlist🎧
+🔭 **Working On**:
+- Advanced distributed systems for real-time data processing
+- Optimizing Spark jobs for large-scale datasets
+- Building robust data lineage solutions
 
-⚡ Fun fact: Cotton candy was invented by a dentist!
+🌱 **Exploring**:
+- Cutting-edge distributed computing technologies
+- Innovative approaches to data availability challenges
+- Scalable operational data stores
 
-💬 Ask me about: Probably anything you are stuck with, and I'll try to help you 😉
+---
 
-📄 Resume : [Click to view](https://sajalsuhane.github.io/cv.html)
+## 🛠️ Technical Stack
 
-🤵 Portfolio : [Click to view](https://sajalsuhane.github.io/)
+### Distributed Systems & Big Data
 
-### Languages and Tools-
+| Apache Spark | DAGs | Data Lineage | Operational Stores |
+| :---: | :---: | :---: | :---: |
 
+| Data Availability | Distributed Computing | Scalable Architectures | Real-time Processing |
+| :---: | :---: | :---: | :---: |
 
-| Python | Sklearn | C++ | Tkinter |
-| :---: | :---: | :---: | :---: | 
+### Backend & APIs
 
-| Selenium | C++ | SQL | Pytorch | Numpy |
-| :---: | :---: | :---: | :---: | :---: |
+| SpringBoot | RESTful APIs | Microservices | Java |
+| :---: | :---: | :---: | :---: |
 
-| Pandas | Tensorflow | OpenCV | Matplotlib |
-| :---: | :---: | :---: | :---: | 
+### Data Science & ML
 
-| Java | Google Colab | Github | Tableau |
-| :---: | :---: | :---: | :---: | 
+| Python | PyTorch | TensorFlow | Scikit-learn |
+| :---: | :---: | :---: | :---: |
 
-| Flask | Kibana | IBM Machine Learning | Data Analysis |
-| :---: | :---: | :---: | :---: | 
+| Pandas | NumPy | Matplotlib | OpenCV |
+| :---: | :---: | :---: | :---: |
 
+### DevOps & Tools
 
-![Sajal's github stats](https://github-readme-stats.vercel.app/api?username=sajalsuhane&show_icons=true&theme=dark)
+| GitHub | Google Colab | Flask | Kibana |
+| :---: | :---: | :---: | :---: |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sajalsuhane&layout=compact&show_icons=true&theme=dark)](https://github.com/sajalsuhane/github-readme-stats)
+| SQL | Tableau | IBM ML | Data Analysis |
+| :---: | :---: | :---: | :---: |
+
+---
+
+## 📊 GitHub Stats
+
+![Sajal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajalsuhane&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajalsuhane&layout=compact&show_icons=true&theme=radical&langs_count=8)
+
+---
+
+## 🎯 Let's Connect!
+
+💬 **Ask me about**: Distributed systems, Spark optimization, data engineering, or anything tech-related!
+
+📄 **Resume**: [View My CV](https://sajalsuhane.github.io/cv.html)
+
+🤵 **Portfolio**: [Explore My Work](https://sajalsuhane.github.io/)
+
+⚡ **Fun Fact**: The first computer "bug" was an actual insect found in a Harvard Mark II computer in 1947!
+
+---
+
+## 🚀 Open to Collaboration
+
+I'm always excited to collaborate on innovative projects involving:
+- Distributed systems optimization
+- Large-scale data processing
+- Real-time analytics solutions
+- Scalable backend architectures
+
+Let's build something amazing together! 💻✨
